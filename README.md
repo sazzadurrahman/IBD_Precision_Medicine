@@ -1,6 +1,6 @@
 # IBD_Precision_Medicine
 Prototype for IBD Precision Medicine
-
+______________________________________________________________________________________________________________________________
 
 The objective of the project is to build a prototype data aggregation interface that will allow users to easily interact with the combined datasets (clinical data, human tissue experimental data and genomics data) and to produce reports demonstrating data associations through visualizations. In order to obtain this aim, the following tasks are performed:
 
@@ -34,7 +34,7 @@ conda install -c conda-forge scikit-allel
 
 conda install -c anaconda biopython
 
-
-#### The master file is main.py
+_________________________________________________________________________________________________
+The master file is main.py
 
 It will open the dashboard at http://127.0.0.1:2019, where 2019 is the specified port number.
