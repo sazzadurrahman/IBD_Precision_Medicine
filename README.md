@@ -17,15 +17,24 @@ First, make sure your computer has Anaconda Distribution or Python 3.5 installed
 
 # Install the following packages
 pip install -y plotly
+
 pip install dash
+
 pip install scikit-allel
+
 pip install biopython
+
 
 # For Anaconda Distribution, install the packages as follows:
 conda install -y plotly
+
 conda install -c conda-forge dash
+
 conda install -c conda-forge scikit-allel
+
 conda install -c anaconda biopython
 
+
 The master file is main.py
+
 It will open the dashboard at http://127.0.0.1:2019, where 2019 is the specified port number.
